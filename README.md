@@ -1,8 +1,8 @@
-# 🚀 FastAPI ML Deployment – Iris Classifier
+#  FastAPI ML Deployment – Iris Classifier
 
 This project demonstrates how to deploy a machine learning model using **FastAPI**, a modern, high-performance Python framework for building APIs.
 
-## 📌 Project Overview
+##  Project Overview
 
 * **Model**: Random Forest Classifier trained on the Iris dataset
 * **API Framework**: FastAPI with input validation using Pydantic
@@ -12,7 +12,7 @@ This project demonstrates how to deploy a machine learning model using **FastAPI
   * `POST /predict`: Predicts Iris species from flower measurements
 * **Docs**: Auto-generated Swagger UI (`/docs`) and ReDoc (`/redoc`)
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Structuring ML model APIs with FastAPI
 * Validating input with Pydantic
@@ -20,7 +20,7 @@ This project demonstrates how to deploy a machine learning model using **FastAPI
 * Testing APIs using Swagger UI and Postman
 * Optional: Docker for deployment consistency
 
-## ▶️ How to Run
+##  How to Run
 
 ```
 # Install dependencies
